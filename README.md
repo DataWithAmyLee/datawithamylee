@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Amy-Lee!
 Aspiring Data Analyst | Data Enthusiast | Lifelong Learner
+<img width="1584" height="396" alt="AmyBanner" src="https://github.com/user-attachments/assets/e9a99329-71a0-4eef-95b9-bfc5a65a95b5" />
 ---
 
 ## 🚀 About Me
