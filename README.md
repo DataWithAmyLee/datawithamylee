@@ -7,7 +7,7 @@ Aspiring Data Analyst | Data Enthusiast | Lifelong Learner
 I'm building my journey into data analytics through hands-on learning and practical projects.  
 I enjoy exploring datasets, solving problems, and creating dashboards that turn numbers into stories.
 
-You can check out my projects here.
+You can check out my projects here - more to come soon!
 
 As an introvert who loves online gaming, I bring curiosity, focus, and a constant drive to level up—both in games and in my technical skills.
 
